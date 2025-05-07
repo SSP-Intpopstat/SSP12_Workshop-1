@@ -12,12 +12,7 @@ This repository is designed to facilitate hands-on exercises using **national-le
 
 ****
 
-/Workshop_1_Intro_Demography /[Your_Name_or_Country] - data.csv - README.txt 
-
-/Workshop_2_Population_Health /[Your_Name_or_Country] - data.csv - README.txt 
-
-/Workshop_3_Event_History /[Your_Name_or_Country] - data.csv - README.txt
-
+/Submissions/[Your_Name_or_Country] - data.csv - README.txt 
 
 > Please create your own folder inside the appropriate workshop directory and upload your dataset along with a brief README file explaining:
 > - Source of data  
