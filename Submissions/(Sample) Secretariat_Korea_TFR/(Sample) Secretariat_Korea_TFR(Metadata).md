@@ -9,7 +9,7 @@ Source: Vital Statistics Survey, Statistics Korea
 
 Download Date: May 12, 2025, 13:42 (KST)
 
-Table URL: KOSIS Link (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A03&conn_path=I3)
+Table URL: KOSIS Link (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B81A21&language=en&conn_path=I3)
 ※ Please note that the URL may change if the KOSIS website is updated.
 
 
