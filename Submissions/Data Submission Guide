@@ -1,10 +1,22 @@
-📤 [Data Submission Guide]
+##📤 Data Submission Instructions
+Please upload your dataset to the /submissions/ folder.
 
-Please upload your country's dataset in the `/submissions/` folder.
+##📌 File Requirements:
 
-- File format: `.csv`, `.rds`, `.xlsx`, or `.json`
-- File name: `<Country>_<Description>.<ext>` (e.g., `Bangladesh_Census.csv`)
-- If you prefer your data to be visible only to instructors, please email us directly or indicate in the file comment.
+Accepted formats: .csv, .rds, .xlsx, or .json
 
-📁 [Optional Template]
-You can use the sample file in `/templates/sample_format.csv` for reference.
+File naming:
+<Country>_<Description>.<ext>
+(e.g., Bangladesh_Census.csv)
+
+##🔒 Privacy Option:
+If you prefer your file to be accessible only to instructors,
+please either:
+
+Email the file directly to us, or
+
+Add a note in the file’s comments section.
+
+###📁 Optional Template Available
+You may refer to the sample file at:
+/templates/sample_format.csv
